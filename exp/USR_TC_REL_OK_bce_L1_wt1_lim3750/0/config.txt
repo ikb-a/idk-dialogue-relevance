@@ -1,0 +1,8 @@
+CONFIG
+Batchsize: 6
+Margin: 0.4
+MAX_LEN: 512
+EPOCHS: 2
+LR: 0.001
+LOSS FUNC: <function run.<locals>.bce at 0x7f82e7c6fea0>REG_NAME: L1REG_WT: 1
+LIMIT: 3750

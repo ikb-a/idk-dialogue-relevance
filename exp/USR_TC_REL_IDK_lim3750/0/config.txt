@@ -1,0 +1,8 @@
+CONFIG
+Batchsize: 6
+Margin: 0.4
+MAX_LEN: 512
+EPOCHS: 4
+LR: 0.001
+LOSS FUNC: <function triplet_loss2 at 0x7fe67277eb70>REG_NAME: NoneREG_WT: 1
+LIMIT: 3750

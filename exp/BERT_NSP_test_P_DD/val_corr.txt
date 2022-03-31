@@ -1,0 +1,2 @@
+Pearson Rho: 0.3050250130066797 p=1.124247927365182e-05
+Spearman Tau: SpearmanrResult(correlation=0.5283680468984859, pvalue=8.91189858081942e-16)

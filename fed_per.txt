@@ -1,0 +1,58 @@
+humod_val
+Correct, Pearson: (-0.09230848123206041, 0.0034819448138220686)
+Correct, Spearman: SpearmanrResult(correlation=-0.09854438754491601, pvalue=0.0018088404410014245)
+Relevant, Pearson: (-0.09346949574000717, 0.0030909299709581304)
+Relevant, Spearman: SpearmanrResult(correlation=-0.10032209643417155, pvalue=0.0014905754007323068)
+usr-tc_val
+Correct, Pearson: (-0.15059513212850353, 0.04360244071759419)
+Correct, Spearman: SpearmanrResult(correlation=-0.13567408215654075, pvalue=0.06937287406766506)
+Relevant, Pearson: (-0.15771161039755266, 0.03447829270098713)
+Relevant, Spearman: SpearmanrResult(correlation=-0.14214410110119055, pvalue=0.05698135584706496)
+humod_test
+Correct, Pearson: (-0.04449296110748081, 0.15974566013529234)
+Correct, Spearman: SpearmanrResult(correlation=-0.05840073365411221, pvalue=0.0648835960124719)
+Relevant, Pearson: (-0.04502756030887946, 0.15478333538249223)
+Relevant, Spearman: SpearmanrResult(correlation=-0.05885982427715438, pvalue=0.06280119908471839)
+usr-tc_test
+Correct, Pearson: (-0.1224964235423653, 0.10138252452345344)
+Correct, Spearman: SpearmanrResult(correlation=-0.08203765409625391, pvalue=0.2735914462730486)
+Relevant, Pearson: (-0.12171365039108126, 0.10360109556495571)
+Relevant, Spearman: SpearmanrResult(correlation=-0.08457558029943048, pvalue=0.25897415572144067)
+p-dd
+Correct, Pearson: (-0.26211179709559707, 0.00017729254366790302)
+Correct, Spearman: SpearmanrResult(correlation=-0.2522780684521163, pvalue=0.00031353102705402284)
+Relevant, Pearson: (-0.2738731177815396, 8.703012048978851e-05)
+Relevant, Spearman: SpearmanrResult(correlation=-0.2629700806795123, pvalue=0.0001685070860774722)
+fed_rel
+Correct, Pearson: (0.14709011851835546, 0.004311550000187948)
+Correct, Spearman: SpearmanrResult(correlation=0.1506241822622062, pvalue=0.003458031468896966)
+Relevant, Pearson: (0.1475601270915303, 0.004188012265259307)
+Relevant, Spearman: SpearmanrResult(correlation=0.15179937454646686, pvalue=0.003210142466478826)
+fed_cor
+Correct, Pearson: (0.17435975481652127, 0.0006958669953683853)
+Correct, Spearman: SpearmanrResult(correlation=0.17418493865815296, pvalue=0.0007046863673720691)
+Relevant, Pearson: (0.17403576481600155, 0.0007122937808801271)
+Relevant, Spearman: SpearmanrResult(correlation=0.17498629470511107, pvalue=0.000665090859865426)
+----------------------------
+----------------------------
+humod_val
+Sem App, Pearson: (0.042410151991831034, 0.18022833673181682)
+Sem App, Spearman: SpearmanrResult(correlation=0.024993864175459502, pvalue=0.4298138831110139)
+usr-tc_val
+Sem App, Pearson: (0.228429002996762, 0.0020408080052130464)
+Sem App, Spearman: SpearmanrResult(correlation=0.21908934992954718, pvalue=0.003127710120140493)
+humod_test
+Sem App, Pearson: (0.03101783230705917, 0.32714586924228034)
+Sem App, Spearman: SpearmanrResult(correlation=0.023304250274068374, pvalue=0.46165562902544777)
+usr-tc_test
+Sem App, Pearson: (0.015320654586011501, 0.8382533712637726)
+Sem App, Spearman: SpearmanrResult(correlation=0.034315857553952334, pvalue=0.6474390293615326)
+p-dd
+Sem App, Pearson: (0.40916544398796856, 1.791907471612401e-09)
+Sem App, Spearman: SpearmanrResult(correlation=0.41995853062843835, pvalue=5.99757306590867e-10)
+fed_rel
+Sem App, Pearson: (0.02160302176092345, 0.6766836934631401)
+Sem App, Spearman: SpearmanrResult(correlation=-0.019349292680291386, pvalue=0.7087901126866631)
+fed_cor
+Sem App, Pearson: (0.09836449623047178, 0.057030296319135775)
+Sem App, Spearman: SpearmanrResult(correlation=0.0329609035763393, pvalue=0.5245631878022015)
