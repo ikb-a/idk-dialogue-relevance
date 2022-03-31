@@ -13,7 +13,7 @@ All files are Python 3.6.9 code, necessary libraries can be found in requirement
 ## Instructions
 
 
-###For reproducing the IDK and COS-BERT experiments
+### For reproducing the IDK and COS-BERT experiments
 
 1. Delete the existing `exp` folder if you wish to reproduce. Otherwise,
 you can immediately perform steps 6., 8., and the second half of 9.
